@@ -3,8 +3,8 @@ import { createTheme } from "./util";
 const baseTheme = createTheme({
     primary: "blue",
     primaryLight: "#4d4dff",
-    secondary: "red",
+    secondary: "green",
     secondaryLight: "#ff4d4d",
-    textBase: "black",
+    textBase: "orange",
   });
   export default baseTheme;
