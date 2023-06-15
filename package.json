@@ -29,7 +29,7 @@
       "patterns": [
         "src"
       ],
-      "extensions": "js,jsx,ts,tsx"
+      "extensions": "ts,tsx"
     }
   },
   "eslintConfig": {
